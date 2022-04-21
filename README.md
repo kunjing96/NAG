@@ -21,11 +21,13 @@ This repository is the official implementation of [A Neural Architecture Generat
 If you use any part of this code in your research, please cite our paper:
 
 ```
-@inproceedings{jing2021nag,
+@article{jing2021nag,
   title={A Neural Architecture Generator for Efficient Search Space},
   author={Kun Jing, Jungang Xu, and Zhen Zhang},
-  booktitle={Neurocomputing},
-  year={2021}
+  journal={Neurocomputing},
+  volume    = {486},
+  pages     = {189--199},
+  year={2022}
 }
 ```
 
